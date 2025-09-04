@@ -1,0 +1,5 @@
+{
+  "name": "VidNotes - YouTube Bookmarker",
+  "description": "A productivity tool to bookmark timestamps in YouTube videos, add notes, and navigate content efficiently. This app simulates the UI of a Chrome Extension for YouTube.",
+  "requestFramePermissions": []
+}
